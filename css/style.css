@@ -1,0 +1,44 @@
+body {
+    width: 100vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 70px;
+    padding: 0 30px;
+}
+
+.header-img {
+    height: 50%;
+    display: block;
+
+}
+
+.header-nav-list {
+    display: flex;
+}
+
+.header-nav-color {
+    color: gray;
+}
+
+.header-nav-item:not(:last-of-type) {
+    margin-right: 30px;
+}
+
+.main {
+    position: relative;
+}
+
+.main-img {
+    width: 60vw;
+    margin-left: auto;
+    display: block;
+}
