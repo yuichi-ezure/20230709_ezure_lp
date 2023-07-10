@@ -1,5 +1,5 @@
 body {
-    width: 100vw;
+    max-width: 2000px;
 }
 
 a {
@@ -22,7 +22,7 @@ a {
 
 .header-nav-list {
     display: flex;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .header-nav-color {
@@ -42,3 +42,38 @@ a {
     margin-left: auto;
     display: block;
 }
+
+.main-content {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    color: maroon;
+}
+
+.main-title {
+    font-size: 50px;
+    padding-bottom: 30px;
+    font-family: 'Waiting for the Sunrise', cursive;;
+    line-height: 50px;
+}
+
+span.main-title {
+    color: teal;
+}
+
+.main-text {
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+span.main-text {
+    color: teal;
+}
+
+.main-subtext {
+    font-size: 10px;
+    color: gray;
+    line-height: 15px;
+}
+
