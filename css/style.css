@@ -198,7 +198,7 @@ span.main-text {
 .grid-img1 {
     width: 35%;
     height: 35%;
-    padding: 15px 0 15px 33%;
+    padding: 35px 0 30px 33%;
 
 }
 
@@ -207,7 +207,7 @@ span.main-text {
     height: 60%;
     position: relative;
     margin-top: 30px;
-    margin-left: -10%;
+    margin-left: -5%;
 }
 
 .service-grid-subtext1,
@@ -218,29 +218,31 @@ span.main-text {
 
 .service-grid-text1 {
     text-align: center;
+    padding-bottom: 15px;
 }
 
 .service-grid-text2 ,
 .service-grid-subtext2 {
     position: relative;
-    margin-left: 40%;
+    margin-left: 42%;
 
 }
 
 .service-grid-subtext1 {
-    padding: 15px 40px;
+    padding: 10px 40px;
     font-size: 12px;
 }
 
 .service-grid-text2 {
     position: relative;
-    margin-top: -23%;
+    margin-top: -100px;
     margin-bottom: 13px;
     font-size: 15px;
 }
 
 .service-grid-subtext2 {
     margin-bottom: 70px;
+    font-size: 11px;
 }
 
 
@@ -284,7 +286,6 @@ span.main-text {
     padding: 30px 0 10px 0;
     text-align: center;
     width: 36%;
-
 }
 
 .news-title-main {
@@ -333,9 +334,9 @@ span.main-text {
 }
 
 .news-text {
-    font-size: 10px;
+    font-size: 11px;
     line-height: 15px;
-    margin: 15px 0 20px 20px;
+    margin: 15px 0 20px 12%;
     color: gray;
 }
 
