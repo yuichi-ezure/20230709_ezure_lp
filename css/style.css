@@ -198,7 +198,7 @@ span.main-text {
 .grid-img1 {
     width: 35%;
     height: 35%;
-    padding: 35px 0 30px 33%;
+    margin: 35px 0 30px 33%;
 
 }
 
@@ -218,7 +218,7 @@ span.main-text {
 
 .service-grid-text1 {
     text-align: center;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .service-grid-text2 ,
@@ -229,7 +229,7 @@ span.main-text {
 }
 
 .service-grid-subtext1 {
-    padding: 10px 40px;
+    margin: 20px 40px;
     font-size: 12px;
 }
 
@@ -336,7 +336,7 @@ span.main-text {
 .news-text {
     font-size: 11px;
     line-height: 15px;
-    margin: 15px 0 20px 12%;
+    padding: 15px 0 20px 12%;
     color: gray;
 }
 
@@ -344,7 +344,7 @@ span.main-text {
     display: flex;
     justify-content: space-between;
     font-size: 10px;
-    margin: 10px 15px 15px 20px;
+    padding: 10px 15px 15px 20px;
     color: gray;
 }
 
